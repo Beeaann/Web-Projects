@@ -5,7 +5,7 @@ Welcome to my GitHub repository showcasing my various Web projects! This reposit
 1. **Weather App**:
    It is a straightforward weather app created using JavaScript, HTML, and CSS. Its simplicity shines through as it provides you with the essential weather information you need: temperature, wind speed, and humidity.  The weather data is pulled from an "[openweathermap](https://openweathermap.org/api)" API.
    GitHub Link: [Project 1](https://github.com/Beeaann/Web-Projects/tree/main/WeatherProject)
-![Weather App Image](https://github.com/Beeaann/Web-Projects/blob/main/WeatherProject/images/example.png)
+![Weather App Image](https://github.com/Beeaann/Web-Projects/blob/main/WeatherProject/images/example1.png)
 
 2. **To-Do List**:
    The to-do list app is a user-friendly and efficient tool that helps you stay organized and manage your tasks effortlessly. With this app, you can enter the tasks you need to complete and choose to mark them as done or    delete them when necessary. The app ensures that your tasks are saved in local storage, allowing you to access them even if you close the app. The interface is designed for easy navigation, making it  simple to review and update your task list.
