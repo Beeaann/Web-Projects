@@ -3,7 +3,7 @@ Welcome to my GitHub repository showcasing my various Web projects! This reposit
 
 **Python Projects**
 1. **Weather App**:
-   It is a straightforward weather app created using JavaScript, HTML, and CSS. Its simplicity shines through as it provides you with the essential weather information you need: temperature, wind speed, and humidity.  Data is pulled from an "[openweathermap](https://openweathermap.org/api)" API.
+   It is a straightforward weather app created using JavaScript, HTML, and CSS. Its simplicity shines through as it provides you with the essential weather information you need: temperature, wind speed, and humidity.  The weather data is pulled from an "[openweathermap](https://openweathermap.org/api)" API.
    GitHub Link: [Project 1](https://github.com/Beeaann/Web-Projects/tree/main/WeatherProject)
 
 2. **To-Do List**:
